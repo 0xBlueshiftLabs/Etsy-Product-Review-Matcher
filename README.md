@@ -4,7 +4,7 @@
 THE PROBLEM:
 
 Whilst attempting to import product reviews from Etsy to my newly created Shopify store, it quickly became apparent that there was no free or cheap way to do so.
-Shopify does however, allow you to import reviews from other sales channels through uploading a specific formatted .csv file.
+Shopify does however, allow you to import reviews from other sales channels through uploading a specificly formatted .csv file.
 However, the specific format of said file does not match with data able to be exported from Etsy.
 
 THE SOLUTION:
