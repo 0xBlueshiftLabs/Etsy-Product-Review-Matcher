@@ -23,11 +23,6 @@ It then formats the data to conform with Shopify's review importer requirements 
 
 
 
-### Real-World Use-Cases
-
-
-🧾 Web scraping
-
 
 ### Development-Goals
 
@@ -36,8 +31,6 @@ It then formats the data to conform with Shopify's review importer requirements 
 
 🤖 Ease e-commerce store migration
 
-🦸‍♂️ Explore the Beautiful Soup library
-
 
 
 
@@ -45,7 +38,6 @@ It then formats the data to conform with Shopify's review importer requirements 
 ## Built With
 
 * [Python](https://www.python.org/)
-* [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 * [Pandas](https://pandas.pydata.org/)
 
   
